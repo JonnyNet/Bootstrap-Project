@@ -1,0 +1,15 @@
+
+/*******TEXTO*******/
+.centrar{
+	text-align: center;
+}
+.derecha{
+	text-align: right;
+}
+.required{
+	color: red;
+}
+#lista_pacientes_pendientes ul{
+	font-family: 'Droid Sans', sans-serif;
+	list-style: none;
+}
